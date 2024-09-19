@@ -112,7 +112,7 @@ This is my output for the visualization of the contribution of hometown in gaini
 ## Author
 Pangan, Raven G.
 ## References
-* ECE2112 Lecture Notes by Prof. Engr. Ma. Madecheen S. Pangaliman, MSc, and Prof. Engr. Nico John Leo S. Lobos.
+* ECE2112 Lecture Notes by Prof. Engr. Ma. Madecheen S. Pangaliman, MSc and Prof. Engr. Nico John Leo S. Lobos, MSc, ECE, ECT
 * README.md file by SuperMadee
 
 
