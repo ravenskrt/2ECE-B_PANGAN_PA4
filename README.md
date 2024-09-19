@@ -72,7 +72,7 @@ is the graphical representation of any informati or data. It provides a way of u
 ## Output
 ![Alt Text](PA4_IMAGES_USED/df.png)
 
-This is my output for loading the 'board2.xlsx' file
+This is my output for loading the 'board2.xlsx' file.
 
 ---
 ![Alt Text](PA4_IMAGES_USED/1A.png)
